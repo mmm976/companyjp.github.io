@@ -17,9 +17,10 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
-title      : 写你的标题
-email      : 联系邮箱
-description: "写你的站点描述"
+title      : VOICES-「届けたい」をカタチにする。国際物流をもっとシンプルに。
+email      : info@voices.ltd
+description: "私たちは、船便・航空便を活用した国際物流と、日本国内の自社倉庫を組み合わせた一貫サービスを提供しています。法人企業様からEC事業者様まで、幅広いお客様のニーズに合わせて、最適な物流プランをご提案します。
+"
 author     : Your Name
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
