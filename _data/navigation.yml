@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "Services"
       section: services
-    - title: "Portfolio"
-      section: portfolio
+    - title: "About"
+      section: about
     - title: "About"
       section: about
     - title: "Timeline"
@@ -34,14 +34,14 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
-# Spanish
+# Chinese
 # -------
 es: &DEFAULT_ES
   nav:
-    - title: "Servicios"
-      section: servicios
-    - title: "Portafolio"
-      section: portafolio
+    - title: "服务内容"
+      section: 服务内容
+    - title: "关于我们"
+      section: 关于我们
     - title: "Sobre Nosotros"
       section: nosotros
     - title: "Cronología"
