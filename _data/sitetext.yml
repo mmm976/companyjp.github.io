@@ -31,12 +31,7 @@ en: &DEFAULT_EN
       - title: "倉庫業務・フルフィルメントサービス"
         desc: "在庫の「見える化」と効率的なオペレーションにより、EC事業者様から法人企業様まで安心してご利用いただけます。"
         icon: fab fa-markdown
-
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   timeline:
     title: "Timeline"
