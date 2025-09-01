@@ -11,9 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: 物流から販売まで、世界とあなたをつなぐワンストップパートナー
+    text: 私たちは 物流・OEM生産・倉庫・EC販売・代理店業務 を一社完結で提供する総合サポート企業です。
+    text:　「モノをつくり、運び、売る」をシンプルに。フレンドリーで安心できる体制で、国内外のビジネスを支えます。
+    botton: abot us
     buttonlink: "#services"
 
   services:
@@ -21,14 +22,14 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "物流サービス"
+        desc: "「グローバルサプライチェーンを支える、確かな物流パートナー。越境ECから国内配送まで、EC物流をもっとシンプルに。」"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "OEM生産・貿易サポート"
+        desc: "アパレル・雑貨のOEM製造から輸出入代行まで"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "倉庫業務・フルフィルメントサービス"
+        desc: "在庫の「見える化」と効率的なオペレーションにより、EC事業者様から法人企業様まで安心してご利用いただけます。"
         icon: fab fa-markdown
 
   portfolio:
