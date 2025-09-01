@@ -1,6 +1,6 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: 倉庫業務・フルフィルメントサービス
+subtitle: 私たちは、商品保管から出荷、FBA納品代行まで幅広く対応できる 専門的な倉庫サービス を提供しています。在庫の「見える化」と効率的なオペレーションにより、EC事業者様から法人企業様まで安心してご利用いただけます。
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
@@ -9,10 +9,35 @@ caption:
   subtitle: Identity
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+サービス内容
+入庫・在庫管理
+•	商品入庫の受け入れと正確な在庫管理
+•	在庫可視化システムによるリアルタイム管理
+•	定期的な棚卸しと在庫監視による安定した供給体制
+
+注文処理・出荷
+•	注文ピッキングと専門的な梱包
+•	効率的な出荷処理でスピードとコストを両立
+•	一件代発サービス（国内配送・国際配送の両方に対応）
+
+ラベル・転送サービス
+•	商品ラベルの貼付・変更
+•	転送・中継処理による柔軟な物流対応
+
+海外対応・FBAサポート
+•	米国市場向けBtoC・BtoB物流ソリューション
+•	Amazon FBA転送サービス（受け取り、ラベル貼り、梱包、一括FBA倉庫配送まで対応）
+
+専門的な倉庫環境
+•	常温保管設備による安定した商品管理
+•	品質を保つための定期的な検品・在庫チェック
+
+選ばれる理由
+•	EC事業者様：少量出荷・FBA納品代行・一件代発に柔軟対応
+•	法人企業様：大口保管・BtoB出荷・米国市場への輸出入サポート
+•	安心のサポート体制：経験豊富なスタッフと先進システムで物流業務を効率化
+
 
 {:.list-inline}
+‐在庫管理から出荷代行、FBA納品まで、物流のことならすべてお任せください。まずはお気軽にお問い合わせいただき、最適な倉庫プランをご相談ください。
 - Date: January 2017
-- Client: Finish
-- Category: Identity
-
