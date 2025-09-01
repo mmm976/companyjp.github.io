@@ -1,7 +1,7 @@
 ---
 title: アパレル・雑貨のOEM製造から輸出入代行まで
 subtitle: 私たちは アパレルOEM・雑貨OEM を中心に、企画から生産、検品、輸出入までを一貫してサポートするサービスを提供しています。小ロット対応から大規模生産まで柔軟に対応可能。ブランド立ち上げを目指すEC事業者様から、安定した供給を求める法人企業様まで、幅広いニーズに応える　OEM製造・貿易サポート　が私たちの強みです。
-image: assets/img/portfolio/02-full.jpg
+image: assets/img/画像3.png
 alt: Keep Exploring
 
 caption:
