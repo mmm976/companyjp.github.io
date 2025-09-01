@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "アパレル・雑貨のOEM製造から輸出入代行まで"
         icon: fas fa-laptop
       - title: "倉庫業務・フルフィルメントサービス"
-        desc: "Your description here, full **Markdown** support"
+        desc: "在庫の「見える化」と効率的なオペレーションにより、EC事業者様から法人企業様まで安心してご利用いただけます。"
         icon: fab fa-markdown
     closebutton: "閉じる"
 
