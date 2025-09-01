@@ -2,7 +2,6 @@
 title: 「届けたい」をカタチにする。国際物流をもっとシンプルに。
 subtitle: 私たちは、船便・航空便を活用した国際物流と、日本国内の自社倉庫を組み合わせた一貫サービスを提供しています。法人企業様からEC事業者様まで、幅広いお客様のニーズに合わせて、最適な物流プランをご提案します。
 image: companyjp.github.io/assets/img
-
 alt: Shirts on a hanger
 
 caption:
