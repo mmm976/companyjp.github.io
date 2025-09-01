@@ -10,13 +10,11 @@
 # English [default] (https://localizely.com/language-code/en/)
 # -----------------
 en: &DEFAULT_EN
-<header class="masthead">
-  <div class="intro-text">
-    <div class="intro-lead-in">物流から販売まで、世界とあなたをつなぐワンストップパートナー</div>
-    <div class="intro-heading">「モノをつくり、運び、売る」をシンプルに。フレンドリーで安心できる体制で、国内外のビジネスを支えます。</div>
-    <a class="btn btn-primary btn-xl text-uppercase" href="#services">サービス</a>
-  </div>
-</header>
+  header:
+    title: 物流から販売まで、世界とあなたをつなぐワンストップパートナー
+    text: 「モノをつくり、運び、売る」をシンプルに。フレンドリーで安心できる体制で、国内外のビジネスを支えます。
+    button: サービス
+    buttonlink: "#services"
 
 
   services:
