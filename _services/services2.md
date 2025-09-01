@@ -1,6 +1,6 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: アパレル・雑貨のOEM製造から輸出入代行まで
+subtitle: 私たちは アパレルOEM・雑貨OEM を中心に、企画から生産、検品、輸出入までを一貫してサポートするサービスを提供しています。小ロット対応から大規模生産まで柔軟に対応可能。ブランド立ち上げを目指すEC事業者様から、安定した供給を求める法人企業様まで、幅広いニーズに応える　OEM製造・貿易サポート　が私たちの強みです。
 image: assets/img/portfolio/02-full.jpg
 alt: Keep Exploring
 
@@ -9,9 +9,24 @@ caption:
   subtitle: Graphic Design
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+OEM生産サービスの特徴
+・幅広い対応領域：衣類・服飾雑貨・生活雑貨など、多様なアイテムのOEM製造に対応
+・小ロット・大ロット両対応：試作から量産までスムーズにサポート
+・検品・品質管理体制：中国に提携検品所を持ち、出荷前に徹底した品質チェックを実施
+・物流と一貫連携：生産後の輸入代行・倉庫保管・国内配送までワンストップ対応
+
+貿易サポート（輸出入代行）
+・輸入代行サービス：海外OEM工場からの仕入れ・輸入・通関手続きを代行し、国内配送まで一括対応
+・輸出代行サービス：日本から海外への輸出業務を代行し、グローバル展開をサポート
+・通関サポート：複雑な国際取引における通関業務を代行し、スムーズな貿易を実現
+
+対応可能なお客様
+・自社ブランドを立ち上げたい EC事業者・D2Cブランド
+・新商品開発や生産委託を検討する 既存メーカー・商社
+・安定的な供給と品質管理を求める 法人企業
+
 
 {:.list-inline}
+‐アパレルOEM・雑貨OEMの製造委託 や、輸出入代行サービス に関するご相談はお気軽にお問い合わせください。
+小ロットOEMから大規模OEM製造、さらに貿易サポートまで、経験豊富なスタッフが最適なプランをご提案します。
 - Date: January 2017
-- Client: Explore
-- Category: Graphic Design
