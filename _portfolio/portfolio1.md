@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: 物流サービス
-  subtitle: 
+  subtitle: 船便・航空便を活用した国際物流と、日本国内の自社倉庫を組み合わせた一貫サービス
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:
