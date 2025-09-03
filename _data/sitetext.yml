@@ -33,9 +33,9 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
     closebutton: "閉じる"
 
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+  Portfolio:
+    title: "DETAILS"
+    text: "私たちの仕事を詳しくお伝えします。"
     section: portfolio
     closebutton: "Close Project"
     
