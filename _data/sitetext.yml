@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title:  「モノをつくり、運び、売る」をシンプルに。フレンドリーで安心できる体制で、国内外のビジネスを支えます。
     text: 物流から販売まで、世界とあなたをつなぐワンストップパートナー
     button: サービス
-    buttonlink: "#services"
+    buttonlink: "Portfolio"
 
 
 #  services:
