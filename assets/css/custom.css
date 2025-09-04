@@ -1,11 +1,3 @@
 .navbar-brand {
   color: #3498db !important; 
 }
-
-header.masthead {
-  background-size: contain !important;  
-  background-repeat: no-repeat;         
-  background-position: center;          
-  height: auto;                         
-  min-height: 400px;                    
-}
