@@ -4,7 +4,13 @@
 #black: "#000"
 
 #Image Customization
-header-image: "assets/img/header-bg (1).jpg"
+.header {
+  background-image: url("../img/header-bg.jpg");
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 400px;
+}
 contact-image: "../img/contact.png"
 #Font Awesome icon for portfolio grid when an item is hovered over
 #portfolio-icon: fas fa-expand-arrows-alt fa-3x #default: fas fa-plus fa-3x
