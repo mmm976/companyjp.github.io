@@ -17,21 +17,21 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "物流サービス"
-        desc: "グローバルサプライチェーンを支える、確かな物流パートナー。越境ECから国内配送まで、EC物流をもっとシンプルに。"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "OEM生産・貿易サポート"
-        desc: "アパレル・雑貨のOEM製造から輸出入代行まで"
-        icon: fas fa-laptop
-      - title: "倉庫業務・フルフィルメントサービス"
-        desc: "在庫の「見える化」と効率的なオペレーションにより、EC事業者様から法人企業様まで安心してご利用いただけます。"
-        icon: fab fa-markdown
-    closebutton: "閉じる"
+#  services:
+#    title: "Services"
+#    text: "Lorem ipsum"
+#    section: services
+#    list:
+#      - title: "物流サービス"
+#        desc: "グローバルサプライチェーンを支える、確かな物流パートナー。越境ECから国内配送まで、EC物流をもっとシンプルに。"
+#        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+#      - title: "OEM生産・貿易サポート"
+#        desc: "アパレル・雑貨のOEM製造から輸出入代行まで"
+#        icon: fas fa-laptop
+#      - title: "倉庫業務・フルフィルメントサービス"
+#        desc: "在庫の「見える化」と効率的なオペレーションにより、EC事業者様から法人企業様まで安心してご利用いただけます。"
+#        icon: fab fa-markdown
+#    closebutton: "閉じる"
 
   Portfolio:
     title: "DETAILS"
