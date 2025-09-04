@@ -1,3 +1,9 @@
-.navbar-brand {
-  color: #3498db !important; 
+.navbar-nav .nav-link {color: #3498db !important; }
+
+header.masthead {
+  background-size: contain !important;  
+  background-repeat: no-repeat;        
+  background-position: center top;      
+  background-color: #000;               
+  min-height: 400px;                    
 }
