@@ -8,8 +8,9 @@ caption: #what displays in the portfolio grid:
 title: 倉庫業務・フルフィルメントサービス
 subtitle: 私たちは、商品保管から出荷、FBA納品代行まで幅広く対応できる 専門的な倉庫サービス を提供しています。在庫の「見える化」と効率的なオペレーションにより、EC事業者様から法人企業様まで安心してご利用いただけます。
 
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+thumbnail: "assets/img/₋111.jpg"
+image: "assets/img/₋111.jpg"
+alt: "assets/img/₋111.jpg"
 
 ---
 <ul>
