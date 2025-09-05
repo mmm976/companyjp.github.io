@@ -8,8 +8,9 @@ caption: #what displays in the portfolio grid:
 title: OEM生産・貿易サポート
 subtitle: 私たちは アパレルOEM・雑貨OEM を中心に、企画から生産、検品、輸出入までを一貫してサポートするサービスを提供しています。小ロット対応から大規模生産まで柔軟に対応可能。ブランド立ち上げを目指すEC事業者様から、安定した供給を求める法人企業様まで、幅広いニーズに応える OEM製造・貿易サポート が私たちの強みです。
 
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+thumbnail: "assets/img/₋222.jpg"
+image: "assets/img/₋222.jpg"
+alt: "assets/img/₋222.jpg"
 
 ---
 <ul>
