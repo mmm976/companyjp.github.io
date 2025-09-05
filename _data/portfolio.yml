@@ -1,8 +1,8 @@
 - title: 物流サービス
   subtitle: 国際輸送・国内倉庫
   category: Services
-  thumbnail: assets/img/portfolio₋333.jpg   # サムネ画像のパス
-  image: assets/img/₋333.jpg       # モーダル用に同じ画像を使う場合
+  thumbnail: "assets/img/₋333.jpg"   # サムネ画像のパス
+  image: "assets/img/₋333.jpg"       # モーダル用に同じ画像を使う場合
   alt: "assets/img/₋333.jpg"
   modal_id: service-333
   description: 船便・航空便と自社倉庫を組み合わせた一貫サービスを提供します。
