@@ -9,7 +9,7 @@ title: 物流サービス
 subtitle: 私たちは、船便・航空便を活用した国際物流と、日本国内の自社倉庫を組み合わせた一貫サービスを提供しています。法人企業様からEC事業まで、幅広いお客様のニーズに合わせて、最適な物流プランをご提案します。
 thumbnail: assets/img/portfolio/logistics_main.jpg
 image: assets/img/portfolio/logistics_main.jpg
-alt: "物流サービスのメイン画像"
+alt: "assets/img/₋111.png"
 
 ---
 <ul>
