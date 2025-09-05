@@ -7,9 +7,9 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: 物流サービス
 subtitle: 私たちは、船便・航空便を活用した国際物流と、日本国内の自社倉庫を組み合わせた一貫サービスを提供しています。法人企業様からEC事業まで、幅広いお客様のニーズに合わせて、最適な物流プランをご提案します。
-thumbnail: assets/img/portfolio/logistics_main.jpg
-image: "assets/img/₋111.jpg"
-alt: "../img/₋111.jpg"
+thumbnail: "assets/img/₋333.jpg"
+image: "assets/img/₋333.jpg"
+alt: "assets/img/₋333.jpg"
 
 ---
 <ul>
