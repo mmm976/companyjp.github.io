@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: 倉庫業務・フルフィルメントサービス
   subtitle: 自社倉庫で商品保管から出荷、FBA納品代行まで幅広く対応
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: "assets/img/₋111.jpg"
   
 #what displays when the item is clicked:
 title: 倉庫業務・フルフィルメントサービス
