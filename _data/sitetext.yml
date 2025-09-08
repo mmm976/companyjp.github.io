@@ -102,10 +102,10 @@ en: &DEFAULT_EN
     people:
       - name: "虎門アサヒリンク"
         role: "サードパーティー検品会社"
-        image: assets/img/team/500x500.jpg
+        image: "assets/img/coming soon.jpg"
         social:
           - url: comming soon...
-            icon: fab fa-twitter
+            icon: "assets/img/coming soon.jpg"
 #          - url: https://facebook.com
 #            icon: fab fa-facebook-f
 #          - url: https://linkedin.com
