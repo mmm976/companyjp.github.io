@@ -12,9 +12,9 @@
 en: &DEFAULT_EN
   nav:
     - title: "サービス"
-      section: services
-    - title: "私たちは"
-      section: about
+      section: portfolio
+#    - title: "私たちは"
+#      section: about
     - title: "協力会社"
       section: team
     - title: "問合せ"
