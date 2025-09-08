@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: OEM生産・貿易サポート
   subtitle: アパレル・雑貨のOEM製造から輸出入代行まで
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: "assets/img/₋222.jpg"
   
 #what displays when the item is clicked:
 title: OEM生産・貿易サポート
