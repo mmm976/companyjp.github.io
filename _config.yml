@@ -14,8 +14,8 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+url    : "https://mmm976.github.io"
+baseurl: "/companyjp.github.io"
 
 title      : VOICES-「アイデアをカタチに。世界へ届ける力を、すべてここに。」
 email      : info@voices.ltd
