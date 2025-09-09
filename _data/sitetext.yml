@@ -133,7 +133,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum"
+    text: ""
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
