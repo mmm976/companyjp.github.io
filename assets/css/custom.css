@@ -8,50 +8,16 @@ header.masthead {
   min-height: 400px;                    
 }
 
-/* サイトタイトルを赤にする */
-.navbar-brand {
-  color: #d9394e !important;
-}
-
-/* ナビのリンク（サービス/協力会社/問合せ） */
-.navbar-nav .nav-link,
-.navbar-nav .nav-link:link,
-.navbar-nav .nav-link:visited,
-.navbar-nav .nav-link:hover,
-.navbar-nav .nav-link:focus {
-  color: #3498db !important;
-}
-
 /* 左上のサイトタイトル（VOICES-…）を赤に */
-.navbar-brand,
-.navbar-brand:link,
-.navbar-brand:visited,
-.navbar-brand:hover,
-.navbar-brand:focus,
 .navbar-dark .navbar-brand,
 .navbar-dark .navbar-brand:link,
 .navbar-dark .navbar-brand:visited,
 .navbar-dark .navbar-brand:hover,
-.navbar-dark .navbar-brand:focus {
-  color: #d9394e !important;
-}
+.navbar-dark .navbar-brand:focus {color: red !important;}
 
-/* ヒーロー部にタイトルが出ている場合はこちらも */
-header.masthead .intro-text .intro-lead-in,
-header.masthead .intro-text .intro-heading {
-  color: #d9394e !important;
-}
-
-/* サイトタイトル（VOICES-…）を赤に */
-.navbar-dark .navbar-brand,
-.navbar-dark .navbar-brand:link,
-.navbar-dark .navbar-brand:visited,
-.navbar-dark .navbar-brand:hover,
-.navbar-dark .navbar-brand:focus {
-  color: #d9394e !important;
-}
-
-/* ナビゲーションリンクを赤に */
-.navbar-dark .navbar-nav .nav-link {
-  color: #d9394e !important;
-}
+/* ナビゲーションリンク（サービス・協力会社・問合せ）を赤に */
+.navbar-dark .navbar-nav .nav-link,
+.navbar-dark .navbar-nav .nav-link:link,
+.navbar-dark .navbar-nav .nav-link:visited,
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link:focus {color: red !important;}
