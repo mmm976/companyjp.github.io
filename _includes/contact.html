@@ -56,7 +56,7 @@
                 type="submit">{{ site.data.sitetext[site.locale].contact.submit | default: "Send Message" }}</button>
             </div>
             <input type="text" name="_gotcha" style="display:none">
-            <input type="hidden" name="_next" value="#" />
+            <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks.html" />
           </div>
         </form>
       </div>
@@ -120,7 +120,7 @@
                 type="submit">{{ site.data.sitetext.contact.submit | default: "Send Message" }}</button>
             </div>
             <input type="text" name="_gotcha" style="display:none">
-            <input type="hidden" name="_next" value="#" />
+            <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks.html" />
           </div>
         </form>
       </div>
