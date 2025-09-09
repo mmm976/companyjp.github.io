@@ -96,7 +96,7 @@ en: &DEFAULT_EN
 
   team:
     title: "私たちの協力会社"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: ""
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
