@@ -74,7 +74,6 @@ en: &DEFAULT_EN
     title: "所在地"
     text: "about us"
     body: "私たちは、長野県須坂市大字須坂東横町1536-8に位置しております。"
-          - url: https://maps.app.goo.gl/zxYLRZbdUtXdG7Jt5
 
 #  clients:
 #    section: clients
