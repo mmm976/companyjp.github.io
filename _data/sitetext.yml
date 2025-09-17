@@ -71,10 +71,10 @@ en: &DEFAULT_EN
 #    end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+    title: "所在地"
+    text: ""
+    body: "私たちは、長野県須坂市大字須坂東横町1536-8に位置しております。"
+          - url: https://maps.app.goo.gl/zxYLRZbdUtXdG7Jt5
 
 #  clients:
 #    section: clients
